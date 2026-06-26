@@ -149,7 +149,7 @@ python phishing_detector.py
 
 ## 👤 Author
 
-**Shyam Ravi**
+**AK**
 CEH | SOC Aspirant | Splunk SIEM
 [LinkedIn](https://linkedin.com/in/) • [GitHub](https://github.com/)
 
